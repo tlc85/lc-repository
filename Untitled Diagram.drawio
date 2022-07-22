@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T08:58:43.612Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="OZliUVtZF_AX4ljsKPXq" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T09:09:08.188Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cT5CxyzVnxno63zAUGiv" version="20.0.4" type="github">
   <diagram id="HOxKXjVEEQHuZbr7ICWv" name="Page-1">
     <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="150" y="70" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X9wH3CNpNNGaRG8ekS3V-7" value="诱因：" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="120" height="50" as="geometry" />
+          <mxGeometry x="90" y="230" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X9wH3CNpNNGaRG8ekS3V-10" value="劳力过后" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="312.5" width="80" height="50" as="geometry" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X9wH3CNpNNGaRG8ekS3V-20" value="发作形式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="140" height="50" as="geometry" />
+          <mxGeometry x="250" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X9wH3CNpNNGaRG8ekS3V-21" value="抖动" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="313.13" width="70" height="46.87" as="geometry" />
@@ -116,6 +116,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="250" as="sourcePoint" />
             <mxPoint x="650" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9wH3CNpNNGaRG8ekS3V-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.62;exitY=-0.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X9wH3CNpNNGaRG8ekS3V-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="350" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
